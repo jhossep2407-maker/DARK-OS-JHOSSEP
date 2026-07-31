@@ -1,0 +1,88 @@
+2026-07-10 11:08:22,659 | INFO | DARK | DARK OS iniciado correctamente.
+2026-07-10 11:08:22,660 | WARNING | DARK | Esta es una advertencia de prueba.
+2026-07-10 11:08:22,661 | ERROR | DARK | Este es un error de prueba.
+2026-07-10 14:05:09,780 | INFO | DARK | DARK OS iniciado correctamente.
+2026-07-10 14:05:09,781 | WARNING | DARK | Esta es una advertencia de prueba.
+2026-07-10 14:05:09,781 | ERROR | DARK | Este es un error de prueba.
+2026-07-10 14:10:31,123 | INFO | DARK | Kernel Boot
+2026-07-10 14:10:31,123 | INFO | DARK | Starting DARK OS...
+2026-07-10 14:10:31,124 | INFO | DARK | Event -> BOOT
+2026-07-10 14:10:31,124 | INFO | DARK | Kernel Ready
+2026-07-10 14:10:31,125 | INFO | DARK | Event -> SHUTDOWN
+2026-07-10 14:10:31,125 | INFO | DARK | Stopping DARK OS...
+2026-07-10 14:10:31,150 | INFO | DARK | Kernel Shutdown
+2026-07-10 14:19:40,962 | INFO | DARK | Subscribed -> message
+2026-07-10 14:19:40,963 | INFO | DARK | Event -> message
+2026-07-10 14:22:59,855 | INFO | DARK | Module registered -> fake
+2026-07-10 14:22:59,855 | INFO | DARK | Initializing modules...
+2026-07-10 14:22:59,856 | INFO | DARK | Initializing -> fake
+2026-07-10 14:22:59,856 | INFO | DARK | All modules initialized.
+2026-07-10 14:24:07,894 | INFO | DARK | Module registered -> fake
+2026-07-10 14:24:07,894 | INFO | DARK | Initializing modules...
+2026-07-10 14:24:07,895 | INFO | DARK | Initializing -> fake
+2026-07-10 14:24:07,896 | INFO | DARK | All modules initialized.
+2026-07-10 14:25:02,167 | INFO | DARK | Module registered -> fake
+2026-07-10 14:25:02,168 | INFO | DARK | Initializing modules...
+2026-07-10 14:25:02,168 | INFO | DARK | Initializing -> fake
+2026-07-10 14:25:02,168 | INFO | DARK | All modules initialized.
+2026-07-10 14:28:09,304 | INFO | DARK | Running Health Check...
+2026-07-10 14:28:09,305 | INFO | DARK | [OK] Config
+2026-07-10 14:28:09,306 | INFO | DARK | [OK] Logger
+2026-07-10 14:28:09,306 | INFO | DARK | [OK] Kernel
+2026-07-10 14:28:09,307 | INFO | DARK | [OK] Event Bus
+2026-07-10 14:28:09,307 | INFO | DARK | [OK] Module Loader
+2026-07-10 14:28:19,956 | INFO | DARK | Running Health Check...
+2026-07-10 14:28:19,956 | INFO | DARK | [OK] Config
+2026-07-10 14:28:19,957 | INFO | DARK | [OK] Logger
+2026-07-10 14:28:19,957 | INFO | DARK | [OK] Kernel
+2026-07-10 14:28:19,958 | INFO | DARK | [OK] Event Bus
+2026-07-10 14:28:19,958 | INFO | DARK | [OK] Module Loader
+2026-07-10 14:28:54,796 | INFO | DARK | Running Health Check...
+2026-07-10 14:28:54,800 | INFO | DARK | [OK] Config
+2026-07-10 14:28:54,802 | INFO | DARK | [OK] Logger
+2026-07-10 14:28:54,803 | INFO | DARK | [OK] Kernel
+2026-07-10 14:28:54,804 | INFO | DARK | [OK] Event Bus
+2026-07-10 14:28:54,805 | INFO | DARK | [OK] Module Loader
+2026-07-10 14:32:13,125 | INFO | DARK | Service registered -> memory
+2026-07-10 14:36:49,459 | INFO | DARK | Starting DARK OS...
+2026-07-10 14:36:49,460 | INFO | DARK | Kernel Boot
+2026-07-10 14:36:49,461 | INFO | DARK | Starting DARK OS...
+2026-07-10 14:36:49,461 | INFO | DARK | Kernel Ready
+2026-07-10 14:36:49,461 | INFO | DARK | Running Health Check...
+2026-07-10 14:36:49,461 | INFO | DARK | [OK] Config
+2026-07-10 14:36:49,462 | INFO | DARK | [OK] Logger
+2026-07-10 14:36:49,462 | INFO | DARK | [OK] Kernel
+2026-07-10 14:36:49,462 | INFO | DARK | [OK] Event Bus
+2026-07-10 14:36:49,462 | INFO | DARK | [OK] Module Loader
+2026-07-10 14:36:49,463 | INFO | DARK | [OK] Dependency Container
+2026-07-10 14:36:49,463 | INFO | DARK | System Ready.
+2026-07-11 09:44:33,541 | INFO | DARK | Starting DARK OS...
+2026-07-11 09:44:33,554 | INFO | DARK | Kernel Boot
+2026-07-11 09:44:33,554 | INFO | DARK | Starting DARK OS...
+2026-07-11 09:44:33,555 | INFO | DARK | Kernel Ready
+2026-07-11 09:44:33,555 | INFO | DARK | Running Health Check...
+2026-07-11 09:44:33,555 | INFO | DARK | [OK] Config
+2026-07-11 09:44:33,555 | INFO | DARK | [OK] Logger
+2026-07-11 09:44:33,556 | INFO | DARK | [OK] Kernel
+2026-07-11 09:44:33,556 | INFO | DARK | [OK] Event Bus
+2026-07-11 09:44:33,556 | INFO | DARK | [OK] Module Loader
+2026-07-11 09:44:33,556 | INFO | DARK | [OK] Dependency Container
+2026-07-11 09:44:33,557 | INFO | DARK | System Ready.
+2026-07-16 10:53:20,526 | INFO | DARK | Starting DARK OS...
+2026-07-16 10:53:20,527 | INFO | DARK | Kernel Boot
+2026-07-16 10:53:20,528 | INFO | DARK | Starting DARK OS...
+2026-07-16 10:53:20,529 | INFO | DARK | Kernel Ready
+2026-07-16 10:53:20,529 | INFO | DARK | Running Health Check...
+2026-07-16 10:53:20,530 | INFO | DARK | [OK] Config
+2026-07-16 10:53:20,530 | INFO | DARK | [OK] Logger
+2026-07-16 10:53:20,531 | INFO | DARK | [OK] Kernel
+2026-07-16 10:53:20,532 | INFO | DARK | [OK] Event Bus
+2026-07-16 10:53:20,533 | INFO | DARK | [OK] Module Loader
+2026-07-16 10:53:20,533 | INFO | DARK | [OK] Dependency Container
+2026-07-16 10:53:20,534 | INFO | DARK | System Ready.
+2026-07-16 14:15:01,575 | INFO | DARK | Running Health Check...
+2026-07-16 14:15:01,576 | INFO | DARK | [OK] Config
+2026-07-16 14:15:01,576 | INFO | DARK | [OK] Logger
+2026-07-16 14:15:01,576 | INFO | DARK | [OK] Kernel
+2026-07-16 14:15:01,577 | INFO | DARK | [OK] Event Bus
+2026-07-16 14:15:01,577 | INFO | DARK | [OK] Module Loader
